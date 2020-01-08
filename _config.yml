@@ -4,7 +4,7 @@ title: Zs
 description: Getting the world off to sleep since 2020
 collections:
   issue1:
-    relative_directory: issue1
+    output: true
     order:
       - page1
       - page2
