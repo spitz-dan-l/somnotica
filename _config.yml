@@ -2,10 +2,3 @@ theme: jekyll-theme-midnight
 show_downloads: false
 title: Zs
 description: Getting the world off to sleep since 2020
-collections:
-  issue1:
-    output: true
-    order:
-      - page1.md
-      - page2.md
-      - page3.md

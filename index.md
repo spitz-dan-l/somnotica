@@ -1,10 +1,10 @@
 Helloooooo
 
-{% for entry in site.issue1 %}
+{% for entry in site.data.issue1_order %}
   
   hii
   
-  [{{entry.name}}]({{entry.url}})
+  {{ entry }}
 {% endfor %}
 
 
