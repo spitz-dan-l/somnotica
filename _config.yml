@@ -6,6 +6,6 @@ collections:
   issue1:
     output: true
     order:
-      - page1
-      - page2
-      - page3
+      - page1.md
+      - page2.md
+      - page3.md
