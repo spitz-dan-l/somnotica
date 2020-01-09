@@ -3,7 +3,7 @@ layout: issue-1
 title: HyperSom
 author: Daniel Spitz
 ---
-HyperSom
+
 Day of. You've already donned your HyperSom suit. Your good buddy Sam, your mission control, is piped into your helmet.
 
 "Running my final systems check now," says Sam's voice.
