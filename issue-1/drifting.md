@@ -14,4 +14,4 @@ you know he's most beguiling<br/>
 when you avert your thoughts
 
 
-![Drifting]({{ '/assets/img/combined.png' | relative_url }})
+![Drifting]({{ '/assets/img/combination.png' | relative_url }})
