@@ -14,7 +14,9 @@ layout: default
 
     {% if pos %}
         <div>setting prev_name and next_name</div>
-        {% assign prev_name = site.data.issue_1[pos | minus: 1 ] %}
+        {% assign prev_pos = pos | minus: 1 %}
+        {% assign prev_name = site.data.issue_1[prev_pos] %}
+
         {% assign next_pos = pos | plus: 1 %}
         {% assign next_name = site.data.issue_1[next_pos] %}
     {% else %}
@@ -33,13 +35,10 @@ layout: default
     {% if next_name %}
         <div>
             Next is {{next_name}}
-
-            Next should be {{ site.data.issue_1[1] }}
         </div>
     {% endif %}
 </div>
 
-<div> this should be {{site.data.issue_1[pos]}} </div>
 {{ content }}
 
 <div>
@@ -52,7 +51,6 @@ layout: default
     {% if next_name %}
         <div>
             Next is {{next_name}}
-            Next should be {{ site.data.issue_1[1] }}
         </div>
     {% endif %}
 </div>
