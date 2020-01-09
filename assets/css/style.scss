@@ -8,8 +8,10 @@
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     #logo {
+        margin-left: 10px;
         font-size: large;
         font-style: italic;
     }
@@ -18,5 +20,6 @@
     }
 
     #about {
+        margin-right: 10px;
     }
 }
