@@ -7,14 +7,17 @@ layout: default
     {% for name in site.data.issue_1 %}
       {% if name == page.name %}
         {% assign pos = forloop.index0 %}
+        <div>found page name in data: {{ name }}</div>
         {% break %}
       {% endif %}
     {% endfor %}
 
     {% if pos %}
+        <div>setting prev_name and next_name</div>
         {% assign prev_name = site.data.issue_1[pos - 1] %}
         {% assign next_name = site.data.issue_1[pos + 1] %}
     {% else %}
+        <div>page not found</div>
         {% assign prev_name = false %}
         {% assign next_name = false %}
     {% endif %}
