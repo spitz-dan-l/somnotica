@@ -16,14 +16,14 @@ layout: default
     {% if prev_pos < 0 %}
         {% assign prev_page = nil %}
     {% else %}
-        {% assign prev_page = (site.pages | where: "name", site.data.issue_1[prev_pos] | first) %}
+        {% assign prev_page = site.pages | where: "name", site.data.issue_1[prev_pos] | first %}
     {% endif %}
 
     {% assign next_pos = pos | plus: 1 %}
     {% if next_pos >= site.data.issue_1 | size %}
         {% assign next_page = nil %}
     {% else %}
-        {% assign next_page = (site.pages | where: "name", site.data.issue_1[next_pos] | first) %}
+        {% assign next_page = site.pages | where: "name", site.data.issue_1[next_pos] | first %}
     {% endif %}
 {% else %}
     {% assign prev_page = false %}
@@ -51,7 +51,7 @@ layout: default
             </a>
         {% endif %}
 
-        {% if next_name %}
+        {% if next_page %}
             <a class="right">
                 Next is {{next_page.title}}
             </a>
@@ -66,15 +66,15 @@ layout: default
         {{ content }}
     </section>
     <div class="navigation">
-        {% if prev_name %}
+        {% if prev_page %}
             <a class="left">
                 Prev is {{prev_page.title}}
             </a>
         {% endif %}
 
-        {% if next_name %}
+        {% if next_page %}
             <a class="right">
-                Next is {{next_title}}
+                Next is {{next_page.title}}
             </a>
         {% endif %}
     </div>
