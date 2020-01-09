@@ -33,12 +33,12 @@ layout: default
         <div>
             Next is {{next_name}}
 
-            Next should be {{ site.data.issue_1[1] }}
+            Next should be {{ site.data.issue_1["-4"] }}
         </div>
     {% endif %}
 </div>
 
-<div> this should be {{site.data.issue_1[pos]}} </div>
+<div> this should be {{site.data.issue_1[pos + 1]}} </div>
 {{ content }}
 
 <div>
