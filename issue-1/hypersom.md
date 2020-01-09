@@ -76,9 +76,13 @@ It's three strides up the ramp, and you manage to wrap your toes around the lip 
 
 You extend your arms to a point over your head, a diver's pose, so that –
 
+<p><center><i>
 ~
+<br/>
 you are greeted by the Uncle Face, floating through the void, grinning and sneering at you, his mustache bushy, his eyes deep black pits, and you are sharing in his silent jokes and his cautious wisdom, and his regrets
+<br/>
 ~
+</i></center></p>
 
 – your drag will be reduced in the air, and your trajectory will be straight, and you're on the other side of the gap (oh, there it was; the blink), a few feet above the off-ramp.
 
@@ -108,27 +112,43 @@ You've got the layout memorized, though.
 
 You step onto the first platform at full speed, and lunge off to the left, big toe extended, and –
 
+<p><center><i>
 ~
+<br/>
 they call you The Shnoz around here, your honker is so big that your eyes, tongue, teeth and brain are enveloped by your nostrils
+<br/>
 ~
+</i></center></p>
 
 – it contacts lilypad two, and you coil up your left leg as it lands and spring off to the right, adding just a little spin to your –
 
+<p><center><i>
 ~
+<br/>
 you're laughing because you're being punished because you didn't know you weren't supposed to tell her about the yellow guy yet
+<br/>
 ~
+</i></center></p>
 
 – trajectory, so that as you land on pad 3 (yep, right on schedule), pad four is positioned right at your 9 o'clock, which makes it easier, after pushing off into a hard sidestep, to –
 
+<p><center><i>
 ~
+<br/>
 "... recognize this particular pattern of jiggling in the cells as an expression of alternating unbounded knowledge-seeking and mourning," she explains
+<br/>
 ~
+</i></center></p>
 
 – adjust your heading as you land (there's the blink again, perfect) on it, and put everything you have in both your legs to make the final leap forward, over –
 
+<p><center><i>
 ~
+<br/>
 both of your mothers and both of your fathers and your sisters are there, in the clearing; they are RIGHT THERE, and this is THE CASE, and you see it from every angle
+<br/>
 ~
+</i></center></p>
 
 – five yards of naptime, and plant, perfectly, on lilypad (blink) five. And you haven't got time to savor your perfect Lilypads traversal because you've got a personal record to beat today.
 
@@ -150,9 +170,13 @@ Of course, you and Sam have worked this out. You've strategized about grip, post
 
 You bound towards the Tarzan so that you're approaching the rope just to the right of a head-on angle. On your last stride you jump in a shallow vertical arc, so that you'll contact the rope at a high position (shortens travel distance) and with some downward velocity (all ropes are slightly elastic, and this should kick off an oscillation that accelerates you on your dismount), and cycle your forearms to begin wrapping the rope once around each wrist on contact. With the rope inches away you curl your legs up into your chest, and you've already told your fingers to start squeezing as hard as they can because it takes a moment for your brain's signal to –
 
+<p><center><i>
 ~
+<br/>
 take one more lap around the festival grounds in the hopes that when you return, there will not be a glass bowl filled with rotten, wasp-infested corn salad by your tent, and that your ukulele will not have been placed over it to prevent them getting out, it's your goddamn ukulele, what gives anyone the right to
+<br/>
 ~
+</i></center></p>
 
 – travel through your spine and down the nerves in your arms to your hands, and just as quickly you're letting go, arms wide, legs extended (blink) sticking the landing, and breaking into the final sprint.
 
@@ -186,19 +210,30 @@ You put everything you have left into your sprint as you approach the launch ram
 
 You bound up the ramp and launch, simultaneously pressing your hands together and under your right cheek, tucking in your legs, and giving yourself just enough spin for a quarter turn left through the air, so you –
 
+<p><center><i>
 ~
+<br/>
 you have discovered a novel word embedding technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
+<br/>
 ~
+</i></center></p>
 
-***
+<p><strong>
+<center>***</center>
+<p>
 "Roger that," you say. You stand beside the bed, blanket stretched across both hands.
-
+</p>
+<p>
 Your partner approaches the ramp at perfectly-measured speed and launches, twisting and curling gracefully into a sleeper's pose. They barrel through the air violently and peacefully towards you and the bed. Gone, dreaming furiously. The seconds crawl as you marvel at the sight.
-
+</p>
+<p>
 As they crash into the bed, its surface deforms to dissipate the energy as efficiently as possible (thank god the airbag doesn't falsely trigger). You are instantly in motion. They landed on their side, their back to you - just as planned. You lean over them with the blanket to tuck it under the side opposite you first. Your fingers are deft and meticulous, drawing a consistent, snug edge down their side, under their curled legs and feet, and up their back.
-
+</p>
+<p>
 As your hand finishes the tuck on their rear right shoulder, a bell rings, indicating the blanket has sensed a full tuck. Done. You look at the clock, and –
-***
+</p>
+<center>***</center>
+</strong></p>
 
 – land curled up and on your side, minimizing the length of the tuck line around –
 
