@@ -16,14 +16,14 @@ layout: default
     {% if prev_pos < 0 %}
         {% assign prev_name = nil %}
     {% else %}
-        {% assign prev_name = site.data.issue_1[prev_pos] %}
+        {% assign prev_name = (site.pages | where: "name", site.data.issue_1[prev_pos]).title %}
     {% endif %}
 
     {% assign next_pos = pos | plus: 1 %}
     {% if next_pos >= site.data.issue_1 | size %}
         {% assign next_name = nil %}
     {% else %}
-        {% assign next_name = site.data.issue_1[next_pos] %}
+        {% assign next_name = (site.pages | where: "name", site.data.issue_1[next_pos] | first).title %}
     {% endif %}
 {% else %}
     {% assign prev_name = false %}
@@ -59,8 +59,8 @@ layout: default
     </div>
     <section>
         <div id="title">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.author }}</p>
         </div>
 
         {{ content }}

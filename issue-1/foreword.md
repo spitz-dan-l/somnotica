@@ -1,6 +1,9 @@
 ---
 layout: issue-1
+author: Daniel Spitz
+title: Foreword
 ---
 
-bleep
-page1 issue1
+*Zs* is the world's first community zine dedicated to the genre of **Somnotica**.
+
+Within these pages, you will find works of fiction, poetry and art exploring the subject of sleep.
