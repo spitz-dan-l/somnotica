@@ -32,10 +32,13 @@ layout: default
     {% if next_name %}
         <div>
             Next is {{next_name}}
+
+            Next should be {{ site.data.issue_1[1] }}
         </div>
     {% endif %}
 </div>
 
+<div> this should be {{site.data.issue_1[0]}} </div>
 {{ content }}
 
 <div>
@@ -48,6 +51,7 @@ layout: default
     {% if next_name %}
         <div>
             Next is {{next_name}}
+            Next should be {{ site.data.issue_1[1] }}
         </div>
     {% endif %}
 </div>
