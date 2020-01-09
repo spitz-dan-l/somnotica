@@ -6,17 +6,17 @@
 #header {
     position: relative;
 
+    display: flex;
+    justify-content: space-between;
+
     #logo {
         font-size: large;
         font-style: italic;
-        text-align: left;
     }
 
     #title {
-        text-align: center;
     }
 
     #about {
-        text-align: right;
     }
 }
