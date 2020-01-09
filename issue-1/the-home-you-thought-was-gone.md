@@ -1,6 +1,6 @@
 ---
 layout: issue-1
-author: faun
+author: Faun
 title: The Home You Thought was Gone
 ---
 
