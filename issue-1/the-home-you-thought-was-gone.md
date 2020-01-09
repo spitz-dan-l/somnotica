@@ -8,8 +8,7 @@ You walk away from the city. You climb hills. You wade through streams. You stru
 
 You understood that The Hall had been uninhabited ever since Babylon came and sent everyone to be re-educated, stripped of their culture, back before you were born. Sam remembers that day vividly.
 
-Sam talks about how it used to be, back when things made sense. She tells you about how your people used to live alongside animals. You treated them as friends, instead of treating all wild animals as pests and all tame animals as stock, as Babylon does.
-
+Sam talks about how it used to be, back when things made sense. She tells you about how your people used to live alongside animals. You treated them as friends, instead of treating all wild animals as pests and all tame animals as stock, as Babylon does.<br/>
 Sam tells you that the crows who nest under the Hall's eaves once knew how to help the humans to find things in the forest, in exchange for special food. There's a chance that there are still a few old crows who remember those days.
 
 Sam shows you the hay shed and explains that a family group of wolves always used to live here during the winter, as long as she could remember. Sometimes, new pups would be born, and everyone in the Hall would celebrate. They would share spiced meats with them, and coo over the newborns as if they were our own children.
@@ -36,8 +35,7 @@ You anticipate The Hall. You think of what it was, and what it will be again. Th
 
 ﻿It lays down in the hay. It watches you.
 
-﻿Two more arrive. They each begin to do as the first did, and they get in each others' way. As more arrive, you feel that they are more concerned with tousling over who gets to be first to meet you than they are concerned with meeting you. They whine and growl as they convolve. You come to understand that none of their bickering is serious. This is just the way they play.
-
+﻿Two more arrive. They each begin to do as the first did, and they get in each others' way. As more arrive, you feel that they are more concerned with tousling over who gets to be first to meet you than they are concerned with meeting you. They whine and growl as they convolve. You come to understand that none of their bickering is serious. This is just the way they play.<br/>
 The first one is now laying on its side with its eyes closed. One by one, the others join it. You lay down too.
 
 You thought they'd stopped coming here. You can't stop staring, but as you lay still, their breathing eventually pulls you to sleep with them. By dark, you find that you have pulled them all around you. You feel the cold night air, but they are here to protect you from its worst. You wont move from here, not an inch, in case it breaks whatever spell allows these majestic ghosts to revisit your fallen present.
