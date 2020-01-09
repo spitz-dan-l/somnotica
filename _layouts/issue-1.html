@@ -14,20 +14,20 @@ layout: default
 {% if pos %}
     {% assign prev_pos = pos | minus: 1 %}
     {% if prev_pos < 0 %}
-        {% assign prev_name = nil %}
+        {% assign prev_page = nil %}
     {% else %}
-        {% assign prev_name = (site.pages | where: "name", site.data.issue_1[prev_pos] | map: "title" | first) %}
+        {% assign prev_page = (site.pages | where: "name", site.data.issue_1[prev_pos] | first) %}
     {% endif %}
 
     {% assign next_pos = pos | plus: 1 %}
     {% if next_pos >= site.data.issue_1 | size %}
-        {% assign next_name = nil %}
+        {% assign next_page = nil %}
     {% else %}
-        {% assign next_name = (site.pages | where: "name", site.data.issue_1[next_pos] | map: "title" | first) %}
+        {% assign next_page = (site.pages | where: "name", site.data.issue_1[next_pos] | first) %}
     {% endif %}
 {% else %}
-    {% assign prev_name = false %}
-    {% assign next_name = false %}
+    {% assign prev_page = false %}
+    {% assign next_page = false %}
 {% endif %}
 
 
@@ -45,15 +45,15 @@ layout: default
 
 <div class="wrapper">
     <div class="navigation">
-        {% if prev_name %}
+        {% if prev_page %}
             <a class="left">
-                Prev is {{prev_name}}
+                Prev is {{prev_page.title}}
             </a>
         {% endif %}
 
         {% if next_name %}
             <a class="right">
-                Next is {{next_name}}
+                Next is {{next_page.title}}
             </a>
         {% endif %}
     </div>
@@ -68,13 +68,13 @@ layout: default
     <div class="navigation">
         {% if prev_name %}
             <a class="left">
-                Prev is {{prev_name}}
+                Prev is {{prev_page.title}}
             </a>
         {% endif %}
 
         {% if next_name %}
             <a class="right">
-                Next is {{next_name}}
+                Next is {{next_title}}
             </a>
         {% endif %}
     </div>
