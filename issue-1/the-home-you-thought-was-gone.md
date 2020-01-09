@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 author: faun
-title: The Home You Thought Was Gone
+title: The Home You Thought was Gone
 ---
 
 You walk away from the city. You climb hills. You wade through streams. You struggle through an overgrown forest path. You arrive in a clearing. The Hall is weathered and stained but still in one piece. Sam is proud to see you here.
