@@ -16,13 +16,13 @@ Day of. You've already donned your HyperSom suit. Your good buddy Sam, your miss
 
 "In 3, 2, 1–"
 
-<center><i>
+<p><center><i>
 ~
-
+<br/>
 a page flips in a book on a desk, but not in a way you can see or feel, defined only by the thin paper's contact with other pages and the way it flicks, like a spring
-
+<br/>
 ~
-</i></center>
+</i></center></p>
 
 "–and you're out. Confirm, please."
 
@@ -231,6 +231,6 @@ Wow. "We'll- we'll shoot for sub-fifty next year," you gasp. Your head rests com
 
 
 
-
-[^1]: (TMS) - Transcranial Magnetic Stimulation (https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
+<br/><br/><br/><br/><br/><br/>
+[^1]: (TMS) - [Transcranial Magnetic Stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
 
