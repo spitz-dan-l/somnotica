@@ -15,10 +15,18 @@ layout: default
     {% if pos %}
         <div>setting prev_name and next_name</div>
         {% assign prev_pos = pos | minus: 1 %}
-        {% assign prev_name = site.data.issue_1[prev_pos] %}
+        {% if prev_pos < 0 %}
+            {% assign prev_name = nil %}
+        {% else %}
+            {% assign prev_name = site.data.issue_1[prev_pos] %}
+        {% endif %}
 
         {% assign next_pos = pos | plus: 1 %}
-        {% assign next_name = site.data.issue_1[next_pos] %}
+        {% if next_pos >= site.data.issue_1 | size %}
+            {% assign next_name = nil %}
+        {% else %}
+            {% assign next_name = site.data.issue_1[next_pos] %}
+        {% endif %}
     {% else %}
         <div>page not found</div>
         {% assign prev_name = false %}
