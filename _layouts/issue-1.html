@@ -1,22 +1,24 @@
 ---
 layout: default
 ---
-{% assign pos = false %}
+{% comment %}
+    {% assign pos = false %}
 
-{% for name in site.data.issue_1 %}
-  {% if name == page.name %}
-    {% assign pos = forloop.index0 %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+    {% for name in site.data.issue_1 %}
+      {% if name == page.name %}
+        {% assign pos = forloop.index0 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
 
-{% if pos %}
-    {% assign prev_name = site.data.issue_1[pos - 1] %}
-    {% assign next_name = site.data.issue_1[pos + 1] %}
-{% else %}
-    {% assign prev_name = false %}
-    {% assign next_name = false %}
-{% end %}
+    {% if pos %}
+        {% assign prev_name = site.data.issue_1[pos - 1] %}
+        {% assign next_name = site.data.issue_1[pos + 1] %}
+    {% else %}
+        {% assign prev_name = false %}
+        {% assign next_name = false %}
+    {% endif %}
+{% endcomment %}
 
 <div>
     {% if prev_name %}

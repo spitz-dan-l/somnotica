@@ -1,5 +1,6 @@
 
-  {% assign pos = false %}
+{% assign position = false %}
+
 {% comment %}
   {% for name in site.data.issue_1 %}
     {% if name == page.name %}
@@ -14,7 +15,7 @@
   {% else %}
       {% assign prev_name = false %}
       {% assign next_name = false %}
-  {% end %}
+  {% endif %}
 {% endcomment %}
 
 <!doctype html>
