@@ -14,8 +14,8 @@ layout: default
 
     {% if pos %}
         <div>setting prev_name and next_name</div>
-        {% assign prev_name = site.data.issue_1[pos - 1] %}
-        {% assign next_name = site.data.issue_1[pos + 1] %}
+        {% assign prev_name = site.data.issue_1[{{ pos | minus: 1 }}] %}
+        {% assign next_name = site.data.issue_1[{{ pos | plus: 1 }}] %}
     {% else %}
         <div>page not found</div>
         {% assign prev_name = false %}
