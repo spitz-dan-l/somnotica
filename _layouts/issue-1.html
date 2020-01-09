@@ -34,15 +34,15 @@ layout: default
 <div id="header">
     <nav>
         {% if prev_name %}
-            <a class="fork">
+            <li><a class="fork">
                 Prev is {{prev_name}}
-            </a>
+            </a></li>
         {% endif %}
 
         {% if next_name %}
-            <a class="downloads">
+            <li><a class="downloads">
                 Next is {{next_name}}
-            </a>
+            </a></li>
         {% endif %}
     </nav>
 </div><!-- end header -->
