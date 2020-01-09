@@ -32,7 +32,6 @@ layout: default
 
 
 <div id="header">
-    <nav>
         {% if prev_name %}
             <li><a class="fork">
                 Prev is {{prev_name}}
@@ -44,12 +43,11 @@ layout: default
                 Next is {{next_name}}
             </a></li>
         {% endif %}
-    </nav>
-</div><!-- end header -->
+</div>
 
 <div class="wrapper">
 
-  <section>
+  <section class="blooogin">
     <div id="title">
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
