@@ -57,44 +57,25 @@ layout: default
             </a>
         {% endif %}
     </div>
-  <section>
-    <div id="title">
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    <section>
+        <div id="title">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+
+        {{ content }}
+    </section>
+    <div class="navigation">
+        {% if prev_name %}
+            <a class="left">
+                Prev is {{prev_name}}
+            </a>
+        {% endif %}
+
+        {% if next_name %}
+            <a class="right">
+                Next is {{next_name}}
+            </a>
+        {% endif %}
     </div>
-
-    {{ content }}
-
-  </section>
-
-</div>
-
-<div>
-    {% if prev_name %}
-        <div>
-            Prev is {{prev_name}}
-        </div>
-    {% endif %}
-
-    {% if next_name %}
-        <div>
-            Next is {{next_name}}
-        </div>
-    {% endif %}
-</div>
-
-{{ content }}
-
-<div>
-    {% if prev_name %}
-        <div>
-            Prev is {{prev_name}}
-        </div>
-    {% endif %}
-
-    {% if next_name %}
-        <div>
-            Next is {{next_name}}
-        </div>
-    {% endif %}
 </div>
