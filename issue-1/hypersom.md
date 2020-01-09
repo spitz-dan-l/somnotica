@@ -26,7 +26,7 @@ a page flips in a book on a desk, but not in a way you can see or feel, defined 
 
 "–and you're out. Confirm, please."
 
-"Aphantasic book pages," you say. You notice the discontinuous jump in position and pose of the people milling about in the pit. You've just blinked into and out of REM, in a little under a second. Your HyperSom suit relaxes, returning physical control of your body to you as soon as it detects your consciousness. Your helmet does to you in an instant what normal sleep takes 90 minutes to do- start a REM phase, and start dreaming.
+"Aphantasic[^2] book pages," you say. You notice the discontinuous jump in position and pose of the people milling about in the pit. You've just blinked into and out of REM[^3], in a little under a second. Your HyperSom suit relaxes, returning physical control of your body to you as soon as it detects your consciousness. Your helmet does to you in an instant what normal sleep takes 90 minutes to do- start a REM phase, and start dreaming.
 
 The blink can be quite a bit more jarring when you're Running at 90-plus mph. That's HyperSom for you.
 
@@ -104,7 +104,7 @@ In the moments before you contact the landing ramp, you curl your arms and legs 
 
 "Uncle Face," you grunt, leaning hard into a right turn.
 
-"Mm, thought so. Activations looked familiar." Sam can see your FMRI readings from the finish line, and recognizes when you're having a common dream. The Uncle Face is an old standby.
+"Mm, thought so. Activations looked familiar." Sam can see your FMRI[^4] readings from the finish line, and recognizes when you're having a common dream. The Uncle Face is an old standby.
 
 The next major element in the track is what Runners call the Lilypads. It's a series of five unevenly scattered Som-gated platforms. As soon as you jump off of one, you're pushed into REM, and you only wake up if you manage to land on the next one. Since the platforms are scattered around, each successive jump is in a different direction. Plus, you've got to maintain your speed as you go, because the last few platforms are several yards apart; even your suit can't launch you that far from a cold start.
 
@@ -213,7 +213,7 @@ You bound up the ramp and launch, simultaneously pressing your hands together an
 <p><center><i>
 ~
 <br/>
-you have discovered a novel word embedding technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
+you have discovered a novel word embedding[^5] technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
 <br/>
 ~
 </i></center></p>
@@ -257,7 +257,7 @@ Wow. "We'll- we'll shoot for sub-fifty next year," you gasp. Your head rests com
 
 "Mm, please, Sam. If you don't mind."
 
-"Of course. Let me put you under for thirty minutes non-REM, slow-wave. No dreams, just rest. You just stay right there in the crash pad, and I'll wheel you out and clear up here so the next team can move in."
+"Of course. Let me put you under for thirty minutes non-REM, slow-wave[^6]. No dreams, just rest. You just stay right there in the crash pad, and I'll wheel you out and clear up here so the next team can move in."
 
 "Roger that," you mumble. "Thanks, bud."
 
@@ -269,4 +269,9 @@ Wow. "We'll- we'll shoot for sub-fifty next year," you gasp. Your head rests com
 <br/><br/><br/><br/><br/><br/>
 
 [^1]: (TMS) - [Transcranial Magnetic Stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
+[^2]: (Aphantasia) - [Lacking the inner experience of mental imagery](https://en.wikipedia.org/wiki/Aphantasia)
+[^3]: (REM) - [Rapid Eye Movement](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) (stage of sleep producing vivid dreams)
+[^4]: (FMRI) - [Functional Magnetic Resonance Imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+[^5]:  (Word embedding) - any technique for representing words in a body of text as [points or vectors within a space](https://en.wikipedia.org/wiki/Word_embedding)
+[^6]: (non-REM, slow-wave) - [The deepest of the three phases of non-rapid eye movement sleep](https://en.wikipedia.org/wiki/Slow-wave_sleep), involving little or no dreaming compared to REM, and associated with physical healing and memory consolidation.
 
