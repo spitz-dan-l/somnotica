@@ -20,7 +20,7 @@ layout: default
     {% endif %}
 
     {% assign next_pos = pos | plus: 1 %}
-    {% if next_pos >= site.data.issue_1 | size %}
+    {% if next_pos >= (site.data.issue_1 | size) %}
         {% assign next_page = nil %}
     {% else %}
         {% assign next_page = site.pages | where: "name", site.data.issue_1[next_pos] | first %}

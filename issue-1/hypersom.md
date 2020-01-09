@@ -268,6 +268,8 @@ Wow. "We'll- we'll shoot for sub-fifty next year," you gasp. Your head rests com
 
 <br/><br/><br/><br/><br/><br/>
 
+Footnotes
+
 [^1]: (TMS) - [Transcranial Magnetic Stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
 [^2]: (Aphantasia) - [Lacking the inner experience of mental imagery](https://en.wikipedia.org/wiki/Aphantasia)
 [^3]: (REM) - [Rapid Eye Movement](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) (stage of sleep producing vivid dreams)
