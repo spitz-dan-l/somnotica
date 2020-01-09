@@ -7,6 +7,7 @@
     #logo {
         font-size: large;
         font-style: italic;
+        text-align: left;
     }
 
     #title {
@@ -14,6 +15,6 @@
     }
 
     #about {
-        float: right;
+        text-align: right;
     }
 }
