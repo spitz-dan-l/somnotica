@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 #header {
+    position: relative;
+
     #logo {
         font-size: large;
         font-style: italic;
