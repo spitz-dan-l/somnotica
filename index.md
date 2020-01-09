@@ -1,6 +1,6 @@
 Helloooooo
 
-{% for entry in site.data.issue1_order %}
+Go to [Issue 1](issue-1)
   
   hii
   

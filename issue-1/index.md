@@ -4,6 +4,6 @@
 
 Within these pages, you will find works of fiction, poetry and art exploring the subject of sleep.
 
-{% for entry in site.issue1 %}
-  [{{entry.name}}]({{entry.url}})
+{% for page_name in site.data.issue_1 %}
+  * {{page_name}}
 {% endfor %}

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+{% assign pos = false %}
+
+{% for name in site.data.issue_1 %}
+  {% if name == page.name %}
+    {% assign pos = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if pos %}
+    {% assign prev_name = site.data.issue_1[pos - 1] %}
+    {% assign next_name = site.data.issue_1[pos + 1] %}
+{% else %}
+    {% assign prev_name = false %}
+    {% assign next_name = false %}
+{% end %}
+
+<div>
+    {% if prev_name %}
+        <div>
+            Prev is {{prev_name}}
+        </div>
+    {% endif %}
+
+    {% if next_name %}
+        <div>
+            Next is {{next_name}}
+        </div>
+    {% endif %}
+</div>
+
+{{ content }}
+
+<div>
+    {% if prev_name %}
+        <div>
+            Prev is {{prev_name}}
+        </div>
+    {% endif %}
+
+    {% if next_name %}
+        <div>
+            Next is {{next_name}}
+        </div>
+    {% endif %}
+</div>
