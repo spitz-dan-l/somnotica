@@ -32,6 +32,19 @@ layout: default
 
 
 <div id="header">
+    <div id="logo">
+        Zs
+    </div>
+    <div id="title">
+        Issue 1
+    </div>
+    <div id="about">
+        About
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="navigation-head">
         {% if prev_name %}
             <li><a class="fork">
                 Prev is {{prev_name}}
@@ -43,10 +56,7 @@ layout: default
                 Next is {{next_name}}
             </a></li>
         {% endif %}
-</div>
-
-<div class="wrapper">
-
+    </div>
   <section class="blooogin">
     <div id="title">
       <h1>{{ site.title | default: site.github.repository_name }}</h1>

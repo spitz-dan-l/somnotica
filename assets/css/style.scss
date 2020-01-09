@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
-.blooogin {
-    background: green;
+#header {
+    #logo {
+        float: left;
+    }
+
+    #title {
+        float: center;
+    }
+
+    #about {
+        float: right;
+    }
 }
