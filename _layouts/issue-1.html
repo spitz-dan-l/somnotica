@@ -46,14 +46,14 @@ layout: default
 <div class="wrapper">
     <div class="navigation">
         {% if prev_page %}
-            <a class="left">
-                Prev is {{prev_page.title}}
+            <a class="left" href="{{prev_page.url}}">
+                {{prev_page.title}}
             </a>
         {% endif %}
 
         {% if next_page %}
-            <a class="right">
-                Next is {{next_page.title}}
+            <a class="right" href="{{next_page.url}}">
+                {{next_page.title}}
             </a>
         {% endif %}
     </div>
@@ -67,14 +67,14 @@ layout: default
     </section>
     <div class="navigation">
         {% if prev_page %}
-            <a class="left">
-                Prev is {{prev_page.title}}
+            <a class="left" href="{{prev_page.url}}">
+                {{prev_page.title}}
             </a>
         {% endif %}
 
         {% if next_page %}
-            <a class="right">
-                Next is {{next_page.title}}
+            <a class="right" href="{{next_page.url}}">
+                {{next_page.title}}
             </a>
         {% endif %}
     </div>
