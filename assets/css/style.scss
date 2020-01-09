@@ -25,14 +25,16 @@
 }
 
 .navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    // display: flex;
+    // justify-content: space-between;
+    // align-items: center;
 
     .left {
+        float: left;
         margin-left: 10px;
     }
     .right {
+        float: right;
         margin-right: 10px;
     }
 }
