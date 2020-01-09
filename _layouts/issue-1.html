@@ -44,20 +44,20 @@ layout: default
 </div>
 
 <div class="wrapper">
-    <div class="navigation-head">
+    <div class="navigation">
         {% if prev_name %}
-            <li><a class="fork">
+            <a class="left">
                 Prev is {{prev_name}}
-            </a></li>
+            </a>
         {% endif %}
 
         {% if next_name %}
-            <li><a class="downloads">
+            <a class="right">
                 Next is {{next_name}}
-            </a></li>
+            </a>
         {% endif %}
     </div>
-  <section class="blooogin">
+  <section>
     <div id="title">
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
