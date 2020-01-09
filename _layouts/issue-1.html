@@ -2,36 +2,64 @@
 layout: default
 ---
 
-    {% assign pos = false %}
+{% assign pos = false %}
 
-    {% for name in site.data.issue_1 %}
-      {% if name == page.name %}
-        {% assign pos = forloop.index0 %}
-        <div>found page name in data: {{ name }}</div>
-        {% break %}
-      {% endif %}
-    {% endfor %}
+{% for name in site.data.issue_1 %}
+  {% if name == page.name %}
+    {% assign pos = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 
-    {% if pos %}
-        <div>setting prev_name and next_name</div>
-        {% assign prev_pos = pos | minus: 1 %}
-        {% if prev_pos < 0 %}
-            {% assign prev_name = nil %}
-        {% else %}
-            {% assign prev_name = site.data.issue_1[prev_pos] %}
-        {% endif %}
-
-        {% assign next_pos = pos | plus: 1 %}
-        {% if next_pos >= site.data.issue_1 | size %}
-            {% assign next_name = nil %}
-        {% else %}
-            {% assign next_name = site.data.issue_1[next_pos] %}
-        {% endif %}
+{% if pos %}
+    {% assign prev_pos = pos | minus: 1 %}
+    {% if prev_pos < 0 %}
+        {% assign prev_name = nil %}
     {% else %}
-        <div>page not found</div>
-        {% assign prev_name = false %}
-        {% assign next_name = false %}
+        {% assign prev_name = site.data.issue_1[prev_pos] %}
     {% endif %}
+
+    {% assign next_pos = pos | plus: 1 %}
+    {% if next_pos >= site.data.issue_1 | size %}
+        {% assign next_name = nil %}
+    {% else %}
+        {% assign next_name = site.data.issue_1[next_pos] %}
+    {% endif %}
+{% else %}
+    {% assign prev_name = false %}
+    {% assign next_name = false %}
+{% endif %}
+
+
+<div id="header">
+    <nav>
+        {% if prev_name %}
+            <a class="fork">
+                Prev is {{prev_name}}
+            </a>
+        {% endif %}
+
+        {% if next_name %}
+            <a class="downloads">
+                Next is {{next_name}}
+            </a>
+        {% endif %}
+    </nav>
+</div><!-- end header -->
+
+<div class="wrapper">
+
+  <section>
+    <div id="title">
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </div>
+
+    {{ content }}
+
+  </section>
+
+</div>
 
 <div>
     {% if prev_name %}
