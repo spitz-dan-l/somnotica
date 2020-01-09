@@ -16,14 +16,14 @@ layout: default
     {% if prev_pos < 0 %}
         {% assign prev_name = nil %}
     {% else %}
-        {% assign prev_name = (site.pages | where: "name", site.data.issue_1[prev_pos]).title %}
+        {% assign prev_name = (site.pages | where: "name", site.data.issue_1[prev_pos] | map: "title" | first) %}
     {% endif %}
 
     {% assign next_pos = pos | plus: 1 %}
     {% if next_pos >= site.data.issue_1 | size %}
         {% assign next_name = nil %}
     {% else %}
-        {% assign next_name = (site.pages | where: "name", site.data.issue_1[next_pos] | first).title %}
+        {% assign next_name = (site.pages | where: "name", site.data.issue_1[next_pos] | map: "title" | first) %}
     {% endif %}
 {% else %}
     {% assign prev_name = false %}
