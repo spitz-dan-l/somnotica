@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: Drifting
-author: Sonya
+author: Sonya Mann
 author_links:
     - https://sonyasupposedly.com/
     - https://twitter.com/sonyasupposedly
