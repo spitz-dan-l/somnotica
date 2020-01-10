@@ -1,7 +1,9 @@
 ---
 layout: issue-1
-author: Shreeda
 title: My Sleep God
+author: Shreeda
+author_links:
+    - https://twitter.com/sadmoonanalog
 ---
 
 Every night I listen for that rap on the door.<br/>

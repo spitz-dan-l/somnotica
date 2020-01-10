@@ -2,6 +2,8 @@
 layout: issue-1
 title: The Discovery of Sleep from the Perspective of an Egg
 author: Andrew
+author_links:
+    - https://twitter.com/drewlooksround
 ---
 
 Night has fallen and there is no moon. All the birds have landed in their nests. You are an egg, and you will hatch tomorrow, but you do not know this. 

@@ -2,6 +2,9 @@
 layout: issue-1
 title: Drifting
 author: Sonya
+author_links:
+    - https://sonyasupposedly.com/
+    - https://twitter.com/sonyasupposedly
 ---
 
 a phantasm beckons<br/>

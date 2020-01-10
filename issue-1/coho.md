@@ -2,6 +2,10 @@
 layout: issue-1
 title: Coho
 author: Graveolens
+author_links:
+    - https://twitter.com/graveolens
+    - https://github.com/graveolensa/thallassophrenomai
+    - https://www.youtube.com/user/diproton/
 ---
 
 smectic sprucing generalizing countryside abutments charging centralist<br/>

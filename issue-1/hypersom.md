@@ -2,6 +2,8 @@
 layout: issue-1
 title: HyperSom
 author: Daniel Spitz
+author_links:
+    - https://twitter.com/bageldaughter
 ---
 
 Day of. You've already donned your HyperSom suit. Your good buddy Sam, your mission control, is piped into your helmet.

@@ -1,7 +1,9 @@
 ---
 layout: issue-1
-author: Daniel Spitz
 title: Foreword
+author: Daniel Spitz
+author_links:
+    - https://twitter.com/bageldaughter
 ---
 
 *Zs* is the world's first zine dedicated to the genre of **Somnotica**.
