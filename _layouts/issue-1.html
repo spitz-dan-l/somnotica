@@ -64,7 +64,10 @@ layout: default
             <h1>{{ page.title }}</h1>
             <p>by {{ page.author }}</p>
             {% if page.author_links %}
-                {{ page.author_links | markdownify }}
+                <div class="author-links">
+                    {% for auth_link in page.author_links %}
+                        <a href="{{auth_link}}">{{auth_link}}</a>
+                    {% endfor %}
             {% endif %}
         </div>
 
