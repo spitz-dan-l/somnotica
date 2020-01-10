@@ -1,8 +1,8 @@
 ---
 layout: issue-1
-title: Zs (Issue 1)
+title: Zs
 ---
 
-# Zs
-
-## Beckoning
+<p><center><h4>
+    Issue 1: Somnotic beckoning
+</h4></center></p>
