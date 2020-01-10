@@ -62,13 +62,15 @@ layout: default
     <section>
         <div id="title">
             <h1>{{ page.title }}</h1>
-            <p>
-                by {{ page.author }}
-                {% for auth_link in page.author_links %}
-                    <br/>
-                    <a class="author-link" href="{{auth_link}}">{{auth_link}}</a>
-                {% endfor %}
-            </p>
+            {% if page.author %}
+                <p>
+                    by {{ page.author }}
+                    {% for auth_link in page.author_links %}
+                        <br/>
+                        <a class="author-link" href="{{auth_link}}">{{auth_link}}</a>
+                    {% endfor %}
+                </p>
+            {% endif %}
         </div>
 
         {{ content }}

@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: The Home You Thought was Gone
-author: Faun
+author: faun
 author_links:
     - https://twitter.com/makoConstruct
 ---

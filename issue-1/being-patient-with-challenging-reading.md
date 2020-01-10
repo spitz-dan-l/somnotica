@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: Being Patient with Challenging Reading
-author: Faun, again
+author: faun, again
 author_links:
     - https://twitter.com/makoConstruct
 ---
