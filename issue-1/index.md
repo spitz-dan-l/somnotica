@@ -1,3 +1,7 @@
+---
+layout: issue-1
+---
+
 # Zs
 
 *Zs* is the world's first community zine dedicated to the genre of **Somnotica**.
