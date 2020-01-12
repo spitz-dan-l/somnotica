@@ -1,6 +1,6 @@
 ---
 layout: issue-1
-title: Zs{: style="font-family: 'Abril Fatface', cursive;" }
+title: <p style="font-family: 'Abril Fatface', cursive;">Zs</p>
 ---
 
 <center><h2>
