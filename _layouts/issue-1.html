@@ -83,6 +83,12 @@ layout: default
 </div>
 
 <div class="navigation">
+    <script>
+        var buddies = document.querySelectorAll('.navigation');
+        if (buddies[1].offsetTop - buddies[0].offsetTop < window.innerHeight) {
+            buddies[1].style.display = 'none';
+        }
+    </script>
     
     <a class="left" href="{{prev_page.url | relative_url}}">
         {% if prev_page %}
