@@ -24,6 +24,7 @@
     }
 
     a {
+        font-family: 'Abril Fatface', cursive;
         color: #f0e7d5;
     }
 }
@@ -50,4 +51,9 @@ section {
 
 .author-link {
     font-size: .6em;
+}
+
+ul {
+    list-style-image: none;
+    list-style-type: circle;
 }
