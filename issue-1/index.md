@@ -1,8 +1,8 @@
 ---
 layout: issue-1
-title: '<p style="font-family: \'Abril Fatface\', cursive;">Zs</p>'
+title: Zs
 ---
 
-<center><h2>
+<center><h2 style="font-family: 'Abril Fatface', cursive;">
     Issue 1: Somnotic beckonings
 </h2></center>

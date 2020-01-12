@@ -47,13 +47,13 @@ layout: default
 <div class="navigation">
     {% if prev_page %}
         <a class="left" href="{{prev_page.url | relative_url}}">
-            {{prev_page.title | markdownify}} ☚
+            {{prev_page.title}} ☚
         </a>
     {% endif %}
 
     {% if next_page %}
         <a class="right" href="{{next_page.url | relative_url}}">
-            ☛ {{next_page.title | markdownify}}
+            ☛ {{next_page.title}}
         </a>
     {% endif %}
 </div>
@@ -61,7 +61,11 @@ layout: default
 <div class="wrapper">
     <section>
         <div id="title">
-            <h1>{{ page.title | markdownify }}</h1>
+            {% if page.name == 'index.md' %}
+                <h1 style="font-family: 'Abril Fatface', cursive;">{{ page.title }}</h1>
+            {% else %}
+                <h1>{{ page.title }}</h1>
+            {% endif %}
             {% if page.author %}
                 <p>
                     by {{ page.author }}
@@ -80,13 +84,13 @@ layout: default
 <div class="navigation">
     {% if prev_page %}
         <a class="left" href="{{prev_page.url | relative_url}}">
-            {{prev_page.title | markdownify}} ☚
+            {{prev_page.title}} ☚
         </a>
     {% endif %}
 
     {% if next_page %}
         <a class="right" href="{{next_page.url | relative_url}}">
-            ☛ {{next_page.title | markdownify}}
+            ☛ {{next_page.title}}
         </a>
     {% endif %}
 </div>
