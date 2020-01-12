@@ -34,18 +34,20 @@ section {
 }
 
 .navigation {
-    // display: flex;
-    // justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
     // align-items: center;
     padding: 15px 0;
 
     .left {
-        float: left;
+        // float: left;
         margin-left: 15px;
+        white-space: nowrap;
     }
     .right {
-        float: right;
+        // float: right;
         margin-right: 15px;
+        white-space: nowrap;
     }
 }
 
