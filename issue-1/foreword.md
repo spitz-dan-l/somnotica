@@ -8,7 +8,7 @@ author_links:
 
 *Zs* is a zine publishing works of **Somnotica** – an experimental literary genre coveting sleep.
 
-The term "Somnotica" is derived from that of another literary genre, "Erotica". Whereas erotica covets sex, somnotica covets sleep.
+The term "Somnotica" is derived from that of another literary genre, "Erotica". Where erotica covets sex, somnotica covets sleep.
 
 The world is overstimulated, overworked, sleep-deprived, sleep-repressed. We do not identify with our unconsciousness, though we sleep for hours every day of our lives. We are ashamed by our sleep; sometimes by how little of it we get, sometimes by how much. We are advised on how to attain somnotic adequacy, in our endless striving to attain generic adequacy.
 
