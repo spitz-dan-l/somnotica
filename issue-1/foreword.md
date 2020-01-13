@@ -10,7 +10,7 @@ author_links:
 
 The term "Somnotica" is derived from that of another literary genre, "Erotica". Whereas erotica covets sex, somnotica covets sleep.
 
-The world is overstimulated, overworked, sleep-deprived, sleep-repressed. We do not identify with our unconsciousness, though we sleep for hours every day of our lives. We are ashamed by our sleep; some by how little of it we get, some by how much. We are advised on how to attain somnotic adequacy, in our endless striving to attain generic adequacy.
+The world is overstimulated, overworked, sleep-deprived, sleep-repressed. We do not identify with our unconsciousness, though we sleep for hours every day of our lives. We are ashamed by our sleep; sometimes by how little of it we get, sometimes by how much. We are advised on how to attain somnotic adequacy, in our endless striving to attain generic adequacy.
 
 We have diverse, private somnotic lives. We ritualize the acts of going to sleep and waking. We nap. We develop preferences about our beds and the company we keep during sleep. We are sometimes kept up by our thoughts, or our responsibilities, or other circumstances. We can pine for sleep. We can dread sleep.
 
