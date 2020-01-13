@@ -3,7 +3,7 @@ layout: issue-1
 title: How a Toast Hums into Being
 author: Preinfarction
 author_links:
-    - https://twitter.com/preinfarction
+    '@preinfarction': https://twitter.com/preinfarction
 ---
 
 There is a bread in the toaster. Soon it will be a toast. The sun is not really up yet, and neither are you.

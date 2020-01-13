@@ -4,8 +4,8 @@ title: Coho
 author: Graveolens
 author_links:
     '@graveolens': https://twitter.com/graveolens
-    'Alternative keyboard layouts (used to write this)': https://github.com/graveolensa/thallassophrenomai
-    'Youtube user diproton': https://www.youtube.com/user/diproton/
+    'alternative keyboard layouts (used to write this)': https://github.com/graveolensa/thallassophrenomai
+    'youtube user: diproton': https://www.youtube.com/user/diproton/
 ---
 
 smectic sprucing generalizing countryside abutments charging centralist<br/>

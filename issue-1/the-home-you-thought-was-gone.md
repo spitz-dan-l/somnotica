@@ -3,7 +3,7 @@ layout: issue-1
 title: The Home You Thought was Gone
 author: faun
 author_links:
-    - https://twitter.com/makoConstruct
+    '@makoConstruct': https://twitter.com/makoConstruct
 ---
 
 You walk away from the city. You climb hills. You wade through streams. You struggle through an overgrown forest path. You arrive in a clearing. The Hall is weathered and stained but still in one piece. Sam is proud to see you here.

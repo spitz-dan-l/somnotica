@@ -3,8 +3,9 @@ layout: issue-1
 title: Drifting
 author: Sonya Mann
 author_links:
-    'Homepage': https://sonyasupposedly.com/
     '@sonyasupposedly': https://twitter.com/sonyasupposedly
+    'homepage': https://sonyasupposedly.com/
+    
 ---
 
 a phantasm beckons<br/>
