@@ -59,7 +59,9 @@ ul {
     list-style-type: circle;
 }
 
-section #title *,
+section #title h1,
+section #title p,
 body {
+    color: #d7cfbe;
     font-family: 'Rubik', sans-serif;
 }
