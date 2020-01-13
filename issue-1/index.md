@@ -13,5 +13,5 @@ title: Zs
 <br/><br/><br/><br/>
 
 ## [Foreword/About]({{'/issue-1/foreword.html' | relative_url}}){: style="text-slign: center;" }
-<br/><br/>
+
 ## [Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}}){: style="text-slign: center;" }
