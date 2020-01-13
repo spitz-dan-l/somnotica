@@ -3,7 +3,7 @@ layout: issue-1
 title: Foreword
 author: Daniel Spitz
 author_links:
-    - https://twitter.com/bageldaughter
+    '@bageldaughter': https://twitter.com/bageldaughter
 ---
 
 *Zs* is a zine publishing works of **Somnotica** – an experimental literary genre coveting sleep.

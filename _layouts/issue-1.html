@@ -72,7 +72,7 @@ layout: default
                     by {{ page.author }}
                     {% for auth_link in page.author_links %}
                         <br/>
-                        <a class="author-link" href="{{auth_link}}">{{auth_link}}</a>
+                        <a class="author-link" href="{{auth_link[1]}}">{{auth_link[0]}}</a>
                     {% endfor %}
                 </p>
             {% endif %}
