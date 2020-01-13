@@ -33,4 +33,5 @@ I'll end this foreword with a call to participate. If you find yourself inspired
 - Email: <somnotica@gmail.com>
 - Twitter: [@zs_somnotica](https://twitter.com/zs_somnotica)
 
-Thanks!
+With zonks,
+Daniel Spitz
