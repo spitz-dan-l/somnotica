@@ -3,7 +3,7 @@ layout: issue-1
 title: Being Patient with Challenging Reading
 author: faun, again
 author_links:
-    - https://twitter.com/makoConstruct
+    '@makoConstruct': https://twitter.com/makoConstruct
 ---
 
 Since deindustrialisation, life has been good. Nothing particularly bad ever happens. The world is getting better, if slowly, but what's really important is that we are sure that the world is not getting worse. Space above is waiting patiently. As long as we don't do anything too hasty and mess it all up, a great future is assured to our descendants, so we focus on not doing anything too hasty.
