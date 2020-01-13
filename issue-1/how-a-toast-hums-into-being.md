@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: How a Toast Hums into Being
-author: Preinfarction
+author: preinfarction
 author_links:
     '@preinfarction': https://twitter.com/preinfarction
 ---

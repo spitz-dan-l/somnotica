@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: Coho
-author: Graveolens
+author: graveolens
 author_links:
     '@graveolens': https://twitter.com/graveolens
     'alternative keyboard layouts (used to write this)': https://github.com/graveolensa/thallassophrenomai
