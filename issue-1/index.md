@@ -10,10 +10,6 @@ title: Zs
 </center>
     
 
-<center>
-    [Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
-</center>
+[Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
 
-<center>
-    [Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}})
-</center>
+[Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}})
