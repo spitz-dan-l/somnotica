@@ -34,4 +34,4 @@ I'll end this foreword with a call to participate. If you find yourself inspired
 - Twitter: [@zs_somnotica](https://twitter.com/zs_somnotica)
 
 With zonks,
-Daniel Spitz
+<br/>Daniel Spitz
