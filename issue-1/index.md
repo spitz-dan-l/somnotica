@@ -8,9 +8,6 @@ title: Zs
         Issue 1: Somnotic beckonings
     </h2>
 </center>
-    
-
-<br/><br/><br/><br/>
 
 ## [Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
 {: style="text-align: center;" }
