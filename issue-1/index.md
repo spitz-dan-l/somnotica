@@ -7,8 +7,13 @@ title: Zs
     <h2 style="font-family: 'Abril Fatface', cursive;">
         Issue 1: Somnotic beckonings
     </h2>
+</center>
+    
 
-    [Foreword]({{'/issue-1/foreword.html' | relative_url}})
+<center>
+    [Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
+</center>
 
+<center>
     [Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}})
 </center>
