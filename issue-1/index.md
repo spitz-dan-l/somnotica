@@ -10,6 +10,8 @@ title: Zs
 </center>
     
 
-[Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
+## Fiction, poetry and art coveting sleep
 
-[Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}})
+## [Foreword/About]({{'/issue-1/foreword.html' | relative_url}})
+
+## [Table of Contents]({{'/issue-1/table-of-contents.html' | relative_url}})
