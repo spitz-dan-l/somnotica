@@ -8,8 +8,9 @@ author_links:
 ---
 
 *Editor's note: This piece is described by the author as a work of "keyboard play". The author used two esoteric keyboard layouts, "karovd" (mirrored [dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)) and "poiuyt" (mirrored [qwerty](https://en.wikipedia.org/wiki/QWERTY)), and using those layouts, typed the piece from scratch. The author also provided [this repo](https://github.com/graveolensa/thallassophrenomai) with the layout files.*
+{: style="font-size: 12px;" }
 
-<br/><br/><br/><br/>
+<br/>
 
 smectic sprucing generalizing countryside abutments charging centralist<br/>
 tendencies to isostatic resplendences or calcium muttering recollections<br/>
