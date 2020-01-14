@@ -7,7 +7,7 @@ author_links:
     'youtube: diproton': https://www.youtube.com/user/diproton/
 ---
 
-***Editor's note:** This piece is described by the author as a work of "keyboard play". The author used two esoteric keyboard layouts, "karovd" (mirrored [dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)) and "poiuyt" (mirrored [qwerty](https://en.wikipedia.org/wiki/QWERTY)), and using those layouts, typed the piece from scratch. The author also provided [this repo](https://github.com/graveolensa/thallassophrenomai) with the layout files.*
+***Editor's note:** This piece is described by the author as a work of "keyboard play". The author used two esoteric keyboard layouts, "karovd" (mirrored [dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)) and "poiuyt" (mirrored [qwerty](https://en.wikipedia.org/wiki/QWERTY)), to type the piece from scratch. The author also provided [this repo](https://github.com/graveolensa/thallassophrenomai) with the layout files.*
 {: style="font-size: 12px;" }
 
 <br/>
