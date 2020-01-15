@@ -1,7 +1,7 @@
 ---
 layout: issue-1
 title: HyperSom
-author: Daniel Spitz
+author: Daniel Spitz, again
 author_links:
     '@bageldaughter': https://twitter.com/bageldaughter
 ---
