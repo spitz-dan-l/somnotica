@@ -1,6 +1,6 @@
 ---
 layout: issue-1
-title: Coho
+title: Studies in Whatevernessless
 author: graveolens
 author_links:
     '@graveolens': https://twitter.com/graveolens
