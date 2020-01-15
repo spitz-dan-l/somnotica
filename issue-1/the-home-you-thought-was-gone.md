@@ -44,6 +44,6 @@ It lays down in the hay. It watches you.
 Two more arrive. They each begin to do as the first did, and they get in each others' way. As more arrive, you feel that they are more concerned with tousling over who gets to be first to meet you than they are concerned with meeting you. They whine and growl as they convolve.
 <br/>The first one is now laying on its side with its eyes closed. One by one, the others join it. You lay down too.
 
-You thought they'd stopped coming here. You can't stop staring, but as you lay still, their breathing eventually pulls you to sleep with them. By dark, you find that you have pulled them all around you. You feel the cold night air, but they are here to protect you from its worst. You wont move from here, not an inch, in case it breaks whatever spell allows these majestic ghosts to revisit your fallen present.
+You thought they'd stopped coming here. You can't stop staring, but as you lay still, their breathing eventually pulls you to sleep with them. By dark, you find that you have pulled them all around you. You feel the cold night air, but they are here to protect you from its worst. You won't move from here, not an inch, in case it breaks whatever spell allows these majestic ghosts to revisit your fallen present.
 
 ﻿You dream of the hall, the way it used to be. You can't believe they're here. The wolves and The Hall, returned to life, fill your dreams. You hold them. You didn't know that you would ever get to come home.
