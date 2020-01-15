@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
-@media print, screen and (max-width: 480px)
-#header {
-    margin-top: 0;
+@media print, screen and (max-width: 480px) {
+    #header {
+        margin-top: 0;
+    }
 }
 
 #header {
