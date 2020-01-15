@@ -4,7 +4,7 @@ title: Drifting
 author: Sonya Mann
 author_links:
     '@sonyasupposedly': https://twitter.com/sonyasupposedly
-    'homepage': https://sonyasupposedly.com/
+    'sonyasupposedly.com': https://sonyasupposedly.com/
     
 ---
 
