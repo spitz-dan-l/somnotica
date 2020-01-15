@@ -215,7 +215,7 @@ You bound up the ramp and launch, simultaneously pressing your hands together an
 <p><center><i>
 ~
 <br/>
-you have discovered a novel word embedding[^5] technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
+you have discovered a novel word embedding<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup> technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
 <br/>
 ~
 </i></center></p>
