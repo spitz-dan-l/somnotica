@@ -212,10 +212,10 @@ You put everything you have left into your sprint as you approach the launch ram
 
 You bound up the ramp and launch, simultaneously pressing your hands together and under your right cheek, tucking in your legs, and giving yourself just enough spin for a quarter turn left through the air, so you –
 
-<p><center><i>
+<p><center><i markdown="1">
 ~
 <br/>
-you have discovered a novel word embedding<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup> technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
+you have discovered a novel word embedding[^5] technique that correctly identifies that, hidden within the Gettysburg Address, there resides a man named Jerry
 <br/>
 ~
 </i></center></p>
@@ -276,6 +276,6 @@ Footnotes
 [^2]: (Aphantasia) - [Lacking the inner experience of mental imagery](https://en.wikipedia.org/wiki/Aphantasia)
 [^3]: (REM) - [Rapid Eye Movement](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep) (stage of sleep producing vivid dreams)
 [^4]: (FMRI) - [Functional Magnetic Resonance Imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
-[^5]:  (Word embedding) - any technique for representing words in a body of text as [points or vectors within a space](https://en.wikipedia.org/wiki/Word_embedding)
+[^5]: (Word embedding) - any technique for representing words in a body of text as [points or vectors within a space](https://en.wikipedia.org/wiki/Word_embedding)
 [^6]: (non-REM, slow-wave) - [The deepest of the three phases of non-rapid eye movement sleep](https://en.wikipedia.org/wiki/Slow-wave_sleep), involving little or no dreaming compared to REM, and associated with physical healing and memory consolidation.
 
