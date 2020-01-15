@@ -2,6 +2,8 @@
 layout: issue-1
 title: Elephant with Sunglasses On
 author: Daniel Spitz
+author_links:
+    '@bageldaughter': https://twitter.com/bageldaughter
 ---
 
 The elephant has no name because elephants do not have names. He is enormous and heavy and slow. He sometimes wants things and sometimes does not.
