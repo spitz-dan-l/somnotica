@@ -13,8 +13,6 @@ Sam is proud to see you here.
 
 ﻿You understood that The Hall has been uninhabited ever since the raid, back before you were born, when Babylon came and rounded everyone up and began to strip your people of their culture. Sam remembers those days vividly.
 
-﻿
-
 Sam talks about how it used to be, back when things made sense. She tells you about how your people used to live alongside animals. You treated them as friends, instead of treating all wild animals as pests and all tame animals as stock, as Babylon does.<br/>
 Crows used to nest on the building. They could find you anything, or anyone. All you needed to do was give them a picture and pay them in meat. A family of wolves always used to make den in the barn during the winter. Sometimes, new pups would be born, and everyone in the Hall would celebrate. They would share spiced meats with them, and coo over the newborns as if they were our own children.
 
