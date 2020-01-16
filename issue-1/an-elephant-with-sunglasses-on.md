@@ -27,6 +27,8 @@ The transition to sleep might look something like this:
 - Elephant’s ear happens to twitch once.
 - Elephant is asleep now.
 
+![Elephant is asleep now]({{ '/assets/img/sleeping_elephant.jpg' | relative_url }})
+
 While the elephant sleeps, there is a mild presence of physical relief that flows in waves through his body. There is little in the way of awareness or coherent perceptions.
 
 It is important to note that while the elephant sleeps, his sunglasses stay on. They do not fall off when he rolls over, and they are not pinched between his head and the earth at an odd angle. The same is true for all the animals that fall asleep from time to time in the savannah. There will be no risk of another animal making eye contact with the elephant while he is sleeping. There will be no need for him to put the sunglasses back on when he wakes up.
