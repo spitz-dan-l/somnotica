@@ -14,14 +14,13 @@ a {
 }
 
 #header {
-    height: 50px;
     background: #2e1f00ff;
     border-bottom: none;
     position: relative;
 
     display: flex;
     justify-content: space-between;
-    align-items: bottom;
+    align-items: baseline;
     font-size: 1.7em;
 
     #logo {
