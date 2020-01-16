@@ -4,7 +4,7 @@ title: Zs
 ---
 
 <center>
-    <h2 style="font-family: 'Abril Fatface', cursive;">
+    <h2>
         Issue 1: Somnotic beckonings
     </h2>
 </center>

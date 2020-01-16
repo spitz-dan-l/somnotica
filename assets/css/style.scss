@@ -17,15 +17,16 @@ a {
     background: #2e1f00ff;
     border-bottom: none;
     position: relative;
+    height: 35px;
 
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    font-size: 20px;
+    font-size: 16px;
 
     #logo {
         margin-left: 10px;
-        font-size: 40px;
+        font-size: 24px;
         font-family: 'Abril Fatface', cursive;
     }
 
