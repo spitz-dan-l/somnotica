@@ -14,17 +14,19 @@ a {
 }
 
 #header {
+    height: 50px;
     background: #2e1f00ff;
     border-bottom: none;
     position: relative;
 
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: bottom;
+    font-size: 1.7em;
 
     #logo {
         margin-left: 10px;
-        font-size: large;
+        font-size: 2.5em;
         font-family: 'Abril Fatface', cursive;
     }
 
