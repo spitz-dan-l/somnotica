@@ -9,7 +9,13 @@
     }
 }
 
+a {
+    color: #f7e100ff;
+}
+
 #header {
+    background: #2e1f00ff;
+    border-bottom: none;
     position: relative;
 
     display: flex;
@@ -19,6 +25,9 @@
     #logo {
         margin-left: 10px;
         font-size: large;
+        a {
+            font-family: 'Abril Fatface', cursive;
+        }
     }
 
     #title {
@@ -26,11 +35,6 @@
 
     #about {
         margin-right: 10px;
-    }
-
-    a {
-        font-family: 'Abril Fatface', cursive;
-        color: #f0e7d5;
     }
 }
 
@@ -65,7 +69,7 @@ ul {
 }
 
 h2 {
-    color: #d7cfbe;
+    color: #c39000ff;
 }
 
 section #title h1,
@@ -75,6 +79,10 @@ section #title h4,
 section #title h5,
 section #title p,
 body {
-    color: #d7cfbe;
+    color: #c39000ff;
     font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background: #00000000;
 }
