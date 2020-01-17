@@ -1,6 +1,6 @@
 ---
 layout: issue-1
-title: An Elephant with Sunglasses On
+title: Elephant with Sunglasses On
 author: Daniel Spitz
 author_links:
     '@bageldaughter': https://twitter.com/bageldaughter
