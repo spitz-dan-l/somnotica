@@ -27,7 +27,7 @@ The transition to sleep might look something like this:
 - Elephant’s ear happens to twitch once.
 - Elephant is asleep now.
 
-![Elephant is asleep now]({{ '/assets/img/sleeping_elephant_sunglasses.jpeg' | relative_url }})
+![Elephant is asleep now.]({{ '/assets/img/sleeping_elephant_sunglasses_better.jpeg' | relative_url }})
 
 While the elephant sleeps, there is a mild presence of physical relief that flows in waves through his body. There is little in the way of awareness or coherent perceptions.
 
