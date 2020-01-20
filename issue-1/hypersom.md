@@ -206,7 +206,7 @@ Sam codes, and you Run. Sam also tucks you in.
 
 You put everything you have left into your sprint as you approach the launch ramp for the Beddy-bye. As you close the last few yards to the ramp you can make out the finish platform in the distance, and Sam standing just beside it, arms fully extended, sensor cloth wide open and ready.
 
-"See you on the other side, Sam," you breath.
+"See you on the other side, Sam," you breathe.
 
 "Roger that."
 
