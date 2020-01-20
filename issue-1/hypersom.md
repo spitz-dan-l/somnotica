@@ -32,7 +32,7 @@ a page flips in a book on a desk, but not in a way you can see or feel, defined 
 
 The blink can be quite a bit more jarring when you're Running at 90-plus mph. That's HyperSom for you.
 
-"Alright, that checks out, helmet systems are running fine." continues Sam. "Moving on. Suit systems looking good. Proprioceptive system is good, locomotive volition prediction is good, muscular amplification good. Oops, forgot to arm the airbag."
+"Alright, that checks out, helmet systems are running fine," continues Sam. "Moving on. Suit systems looking good. Proprioceptive system is good, locomotive volition prediction is good, muscular amplification good. Oops, forgot to arm the airbag."
 
 "Safety first, Sam," you say with a chuckle.
 
