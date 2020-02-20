@@ -27,7 +27,7 @@ You drift down to the watering hole and you soak.
 
 You limp back into the hay shed shivering, but clean.
 
-<br/>The sun beams in and warms up the room. You collapse onto a hay bail, utterly exhausted. Lying here is right. Moving again would be wrong. You are not undead. You are alive and now you need to be dead.
+<br/>The sun beams in and warms up the room. You collapse onto a hay bale, utterly exhausted. Lying here is right. Moving again would be wrong. You are not undead. You are alive and now you need to be dead.
 
 You anticipate The Hall. You think of what it was, and what it will be again. The thought glows with such excitement.
 
